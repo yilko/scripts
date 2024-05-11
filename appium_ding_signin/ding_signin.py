@@ -5,7 +5,7 @@ from appium import webdriver;
 from selenium.webdriver.common.by import By
 from apscheduler.schedulers.blocking import BlockingScheduler;
 
-'''实现钉钉自动打卡,未屏蔽敏感字段'''
+'''实现钉钉自动打卡'''
 
 
 class DingSignin:

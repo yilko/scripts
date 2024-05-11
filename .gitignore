@@ -3,7 +3,6 @@
 *.exe
 *.mp3
 *.spec
-*.bat
 *.iss
 *.jpg
 *.png

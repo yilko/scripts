@@ -8,7 +8,7 @@ log = ConfigLog().config_log();
 
 
 def search(content: dict):
-    # 涉及到的端口，22是ssh，3389是windows远程连接，2018和2019是zk端口
+    # 涉及到的端口，22是ssh，3389是windows远程连接
     # port_ls = [22, 3389, 2018, 2019];
     port_ls = content.get("check_port");
     ip_net = content.get("check_net");

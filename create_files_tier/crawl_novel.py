@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup;
 
 '''
-爬取该网站的小说
 http://www.yetianlian.com/
 '''
 
