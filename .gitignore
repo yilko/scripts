@@ -15,10 +15,15 @@
 *.xls
 *.xlsx
 *.ini
+*.csv
+*.bat
+*.ico
+*.config
 
 __pycache__
 file_template
 photo
 .idea
+output
 
 
